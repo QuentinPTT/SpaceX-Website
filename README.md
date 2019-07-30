@@ -8,7 +8,7 @@ This repository is simply a minimal reproduction of the Space X site for trainin
 
 QuentinPTT
 &nbsp; [[Gmail](mailto:quentine0@gmail.com)
-&nbsp; [GitHub](https://github.com/anupkumarpanwar)
-&nbsp; [Twitter](https://twitter.com/home)]
+&nbsp; [GitHub](https://github.com/QuentinPTT)
+&nbsp; [Twitter](https://twitter.com/quentin_ptt)]
 
 
