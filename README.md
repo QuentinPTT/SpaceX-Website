@@ -13,4 +13,3 @@ QuentinPTT
 &nbsp; [Twitter](https://twitter.com/quentin_ptt)]
 
 
-https://www.spacex.com/
